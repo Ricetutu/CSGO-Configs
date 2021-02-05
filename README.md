@@ -1,2 +1,2 @@
-# CSGO-Configs
-Configs for CSGO
+# CSGO - Configs
+Rice's Official CSGO - Configs
